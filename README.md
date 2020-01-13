@@ -6,5 +6,5 @@
 
 - Hazır template ile hazırlanmıştır
 
-###TheGazette ScreenShot 
+### TheGazette ScreenShot 
 
