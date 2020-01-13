@@ -5,3 +5,6 @@
 - Nlog ile loglama yapılır
 
 - Hazır template ile hazırlanmıştır
+
+### TheGazette ScreenShot 
+
