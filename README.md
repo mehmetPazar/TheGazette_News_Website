@@ -20,7 +20,7 @@
 
 ![3](https://user-images.githubusercontent.com/34112198/72253995-e73c7900-3613-11ea-903d-347386910ecc.png)
 
-### Guvenlik News Page 
+### News Page by Topic
 
 ![4](https://user-images.githubusercontent.com/34112198/72254109-28cd2400-3614-11ea-8654-9cc159c8c0c1.png)
 
